@@ -1,0 +1,7 @@
+../Core/Src/sensor.c:77:5:main	3
+../Core/Src/sensor.c:152:6:SystemClock_Config	3
+../Core/Src/sensor.c:196:13:MX_TIM4_Init	4
+../Core/Src/sensor.c:241:13:MX_USART2_UART_Init	2
+../Core/Src/sensor.c:274:13:MX_GPIO_Init	1
+../Core/Src/sensor.c:307:6:usDelay	3
+../Core/Src/sensor.c:323:6:Error_Handler	1
