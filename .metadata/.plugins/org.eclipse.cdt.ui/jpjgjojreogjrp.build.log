@@ -1,0 +1,10 @@
+23:39:28 **** Incremental Build of configuration Debug for project jpjgjojreogjrp ****
+make -j12 all 
+arm-none-eabi-size  jpjgjojreogjrp.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24808	     12	   2756	  27576	   6bb8	jpjgjojreogjrp.elf
+Finished building: default.size.stdout
+ 
+
+23:39:29 Build Finished. 0 errors, 0 warnings. (took 401ms)
+
