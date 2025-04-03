@@ -1,0 +1,10 @@
+00:11:23 **** Incremental Build of configuration Debug for project Temp and Humidity sensor ****
+make -j12 all 
+arm-none-eabi-size  Temp\ and\ Humidity\ sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18068	     92	   2060	  20220	   4efc	Temp and Humidity sensor.elf
+Finished building: default.size.stdout
+ 
+
+00:11:24 Build Finished. 0 errors, 0 warnings. (took 920ms)
+
