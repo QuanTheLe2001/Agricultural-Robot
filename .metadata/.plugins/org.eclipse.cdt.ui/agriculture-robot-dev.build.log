@@ -1,10 +1,10 @@
-20:03:16 **** Incremental Build of configuration Debug for project agriculture-robot-dev ****
+22:23:20 **** Incremental Build of configuration Debug for project agriculture-robot-dev ****
 make -j12 all 
 arm-none-eabi-size  agriculture-robot-dev.elf 
    text	   data	    bss	    dec	    hex	filename
-  12784	     12	   1716	  14512	   38b0	agriculture-robot-dev.elf
+  29116	    468	   2228	  31812	   7c44	agriculture-robot-dev.elf
 Finished building: default.size.stdout
  
 
-20:03:16 Build Finished. 0 errors, 0 warnings. (took 227ms)
+22:23:21 Build Finished. 0 errors, 0 warnings. (took 311ms)
 
